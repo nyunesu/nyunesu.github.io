@@ -6,3 +6,5 @@ collection: games
 entries_layout: grid
 classes: wide
 ---
+
+*To be written.*
