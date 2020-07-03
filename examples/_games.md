@@ -1,19 +1,38 @@
 ---
-permalink: "/game-example"
-title: "Game Example"
-excerpt: "Description Example."
+permalink: "/GID"
+title: "GNAME"
+excerpt: "GYEAR"
 header:
-  teaser: assets/images/game-example.jpg
+  teaser: assets/images/GID.png
+sidebar:
+  - title: "ROLE"
+    image: assets/images/GID.png
+    image_alt: "logo"
+    text: "GROLE"
+  - title: "INFO"
+    text: "GINFO"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: assets/images/GID-1.jpg
+    image_path: assets/images/GID-1.jpg
+    alt: "Screenshot 1"
+  - url: assets/images/GID-1.jpg
+    image_path: assets/images/GID-1.jpg
+    alt: "Screenshot 2"
+  - url: assets/images/GID-1.jpg
+    image_path: assets/images/GID-1.jpg
+    alt: "Screenshot 3"
 ---
 
 {% include gallery caption="" %}
+
+
+
+------
+
+
+
+GDESCRIPTION
+
+
+
+[*Play it here*](GURL)

@@ -5,6 +5,10 @@ permalink: /games/
 collection: games
 entries_layout: grid
 classes: wide
+order
 ---
 
-*To be written.*
+```
+{% for c in site.games | reverse | sort: 'year' %}
+```
+
