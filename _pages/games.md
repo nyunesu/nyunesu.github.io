@@ -5,10 +5,9 @@ permalink: /games/
 collection: games
 entries_layout: grid
 classes: wide
-order
 ---
 
 ```
-{% for c in site.games | reverse | sort: 'year' %}
+{% for c in site.games | reverse | sort: 'order' %}
 ```
 
