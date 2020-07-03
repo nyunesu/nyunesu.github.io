@@ -1,27 +1,27 @@
 ---
-permalink: "/zombie-zone"
-title: "zombie zone"
-excerpt: "????"
+permalink: "/spearity"
+title: "spearity"
+excerpt: "2017"
 header:
-  teaser: assets/images/zombie-zone.png
+  teaser: assets/images/spearity.png
 sidebar:
   - title: "ROLE"
-    image: assets/images/zombie-zone.png
+    image: assets/images/spearity.png
     image_alt: "logo"
     text: "Gameplay Programmer"
   - title: "INFO"
-    text: "College, Under development"
+    text: "A game jam collab with Igor Ferreira"
 gallery:
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/spearity-1.jpg
+    image_path: assets/images/spearity-1.jpg
     alt: "Screenshot 1"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/spearity-1.jpg
+    image_path: assets/images/spearity-1.jpg
     alt: "Screenshot 2"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/spearity-1.jpg
+    image_path: assets/images/spearity-1.jpg
     alt: "Screenshot 3"
-order: 01
+order: 53
 ---
 
 {% include gallery caption="" %}

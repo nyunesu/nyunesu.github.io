@@ -1,27 +1,27 @@
 ---
-permalink: "/zombie-zone"
-title: "zombie zone"
-excerpt: "????"
+permalink: "/devils-bank"
+title: "devils bank"
+excerpt: "2019"
 header:
-  teaser: assets/images/zombie-zone.png
+  teaser: assets/images/devils-bank.png
 sidebar:
   - title: "ROLE"
-    image: assets/images/zombie-zone.png
+    image: assets/images/devils-bank.png
     image_alt: "logo"
-    text: "Gameplay Programmer"
+    text: "Designer"
   - title: "INFO"
-    text: "College, Under development"
+    text: "A collab with Igor Ferreira, Enrique Wicks, Guilherme Serrão"
 gallery:
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/devils-bank-1.jpg
+    image_path: assets/images/devils-bank-1.jpg
     alt: "Screenshot 1"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/devils-bank-1.jpg
+    image_path: assets/images/devils-bank-1.jpg
     alt: "Screenshot 2"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/devils-bank-1.jpg
+    image_path: assets/images/devils-bank-1.jpg
     alt: "Screenshot 3"
-order: 01
+order: 16
 ---
 
 {% include gallery caption="" %}

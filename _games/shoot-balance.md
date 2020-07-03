@@ -1,27 +1,27 @@
 ---
-permalink: "/zombie-zone"
-title: "zombie zone"
-excerpt: "????"
+permalink: "/shoot-balance"
+title: "shoot balance"
+excerpt: "2018"
 header:
-  teaser: assets/images/zombie-zone.png
+  teaser: assets/images/shoot-balance.png
 sidebar:
   - title: "ROLE"
-    image: assets/images/zombie-zone.png
+    image: assets/images/shoot-balance.png
     image_alt: "logo"
     text: "Gameplay Programmer"
   - title: "INFO"
-    text: "College, Under development"
+    text: "Prototype"
 gallery:
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/shoot-balance-1.jpg
+    image_path: assets/images/shoot-balance-1.jpg
     alt: "Screenshot 1"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/shoot-balance-1.jpg
+    image_path: assets/images/shoot-balance-1.jpg
     alt: "Screenshot 2"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/shoot-balance-1.jpg
+    image_path: assets/images/shoot-balance-1.jpg
     alt: "Screenshot 3"
-order: 01
+order: 44
 ---
 
 {% include gallery caption="" %}

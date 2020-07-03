@@ -1,27 +1,27 @@
 ---
-permalink: "/zombie-zone"
-title: "zombie zone"
-excerpt: "????"
+permalink: "/beeholder"
+title: "beeholder"
+excerpt: "2017"
 header:
-  teaser: assets/images/zombie-zone.png
+  teaser: assets/images/beeholder.png
 sidebar:
   - title: "ROLE"
-    image: assets/images/zombie-zone.png
+    image: assets/images/beeholder.png
     image_alt: "logo"
     text: "Gameplay Programmer"
   - title: "INFO"
-    text: "College, Under development"
+    text: "A game jam collab with Igor Ferreira & Enrique Wicks"
 gallery:
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/beeholder-1.jpg
+    image_path: assets/images/beeholder-1.jpg
     alt: "Screenshot 1"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/beeholder-1.jpg
+    image_path: assets/images/beeholder-1.jpg
     alt: "Screenshot 2"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/beeholder-1.jpg
+    image_path: assets/images/beeholder-1.jpg
     alt: "Screenshot 3"
-order: 01
+order: 50
 ---
 
 {% include gallery caption="" %}

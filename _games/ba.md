@@ -1,27 +1,27 @@
 ---
-permalink: "/zombie-zone"
-title: "zombie zone"
-excerpt: "????"
+permalink: "/ba"
+title: "ba"
+excerpt: "2020"
 header:
-  teaser: assets/images/zombie-zone.png
+  teaser: assets/images/ba.png
 sidebar:
   - title: "ROLE"
-    image: assets/images/zombie-zone.png
+    image: assets/images/ba.png
     image_alt: "logo"
     text: "Gameplay Programmer"
   - title: "INFO"
-    text: "College, Under development"
+    text: "Game jam"
 gallery:
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/ba-1.jpg
+    image_path: assets/images/ba-1.jpg
     alt: "Screenshot 1"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/ba-1.jpg
+    image_path: assets/images/ba-1.jpg
     alt: "Screenshot 2"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/ba-1.jpg
+    image_path: assets/images/ba-1.jpg
     alt: "Screenshot 3"
-order: 01
+order: 05
 ---
 
 {% include gallery caption="" %}
@@ -32,8 +32,8 @@ order: 01
 
 
 
+Ba is an atmospheric walking simulator where you combine syllables to spawn magic items. Learning new spells will require you to solve puzzles.
 
 
 
-
-[*Play it here*]()
+[*Play it here*](https://nyunejam.itch.io/ba)

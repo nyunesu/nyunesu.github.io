@@ -1,27 +1,27 @@
 ---
-permalink: "/zombie-zone"
-title: "zombie zone"
-excerpt: "????"
+permalink: "/rhinaway"
+title: "rhinaway"
+excerpt: "2018"
 header:
-  teaser: assets/images/zombie-zone.png
+  teaser: assets/images/rhinaway.png
 sidebar:
   - title: "ROLE"
-    image: assets/images/zombie-zone.png
+    image: assets/images/rhinaway.png
     image_alt: "logo"
     text: "Gameplay Programmer"
   - title: "INFO"
-    text: "College, Under development"
+    text: "A game jam collab with Ernani Rocha"
 gallery:
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/rhinaway-1.jpg
+    image_path: assets/images/rhinaway-1.jpg
     alt: "Screenshot 1"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/rhinaway-1.jpg
+    image_path: assets/images/rhinaway-1.jpg
     alt: "Screenshot 2"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/rhinaway-1.jpg
+    image_path: assets/images/rhinaway-1.jpg
     alt: "Screenshot 3"
-order: 01
+order: 41
 ---
 
 {% include gallery caption="" %}

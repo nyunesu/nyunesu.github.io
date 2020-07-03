@@ -1,27 +1,27 @@
 ---
-permalink: "/zombie-zone"
-title: "zombie zone"
-excerpt: "????"
+permalink: "/arroons"
+title: "arroons"
+excerpt: "2019"
 header:
-  teaser: assets/images/zombie-zone.png
+  teaser: assets/images/arroons.png
 sidebar:
   - title: "ROLE"
-    image: assets/images/zombie-zone.png
+    image: assets/images/arroons.png
     image_alt: "logo"
     text: "Gameplay Programmer"
   - title: "INFO"
-    text: "College, Under development"
+    text: "Prototype"
 gallery:
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/arroons-1.jpg
+    image_path: assets/images/arroons-1.jpg
     alt: "Screenshot 1"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/arroons-1.jpg
+    image_path: assets/images/arroons-1.jpg
     alt: "Screenshot 2"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/arroons-1.jpg
+    image_path: assets/images/arroons-1.jpg
     alt: "Screenshot 3"
-order: 01
+order: 09
 ---
 
 {% include gallery caption="" %}

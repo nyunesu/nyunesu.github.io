@@ -1,27 +1,27 @@
 ---
-permalink: "/zombie-zone"
-title: "zombie zone"
-excerpt: "????"
+permalink: "/boom-bow"
+title: "boom bow"
+excerpt: "2019"
 header:
-  teaser: assets/images/zombie-zone.png
+  teaser: assets/images/boom-bow.png
 sidebar:
   - title: "ROLE"
-    image: assets/images/zombie-zone.png
+    image: assets/images/boom-bow.png
     image_alt: "logo"
-    text: "Gameplay Programmer"
+    text: "Gameplay Programmer, Designer"
   - title: "INFO"
-    text: "College, Under development"
+    text: "A collab with Igor Ferreira & Guilherme Serrão"
 gallery:
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/boom-bow-1.jpg
+    image_path: assets/images/boom-bow-1.jpg
     alt: "Screenshot 1"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/boom-bow-1.jpg
+    image_path: assets/images/boom-bow-1.jpg
     alt: "Screenshot 2"
-  - url: assets/images/zombie-zone-1.jpg
-    image_path: assets/images/zombie-zone-1.jpg
+  - url: assets/images/boom-bow-1.jpg
+    image_path: assets/images/boom-bow-1.jpg
     alt: "Screenshot 3"
-order: 01
+order: 11
 ---
 
 {% include gallery caption="" %}
