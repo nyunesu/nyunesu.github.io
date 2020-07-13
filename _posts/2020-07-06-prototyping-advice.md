@@ -45,4 +45,4 @@ I shrunk as much as I could a list of useful advice I received from the develope
 
 I also started a mailing list, subscribe so you don't miss any post or game I publish.
 
-http://nyune.su/newsletter
+[http://nyune.su/newsletter](http://nyune.su/newsletter)

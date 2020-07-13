@@ -10,6 +10,8 @@ tags:
 
 
 
+![cockatune-logo](assets\images\cockatune-logo.png)
+
 I participated in the GMTK game jam and we made [CockaTune](https://nyunesu.itch.io/cockatune). Here are the main takeaways from that experience:
 
 
@@ -37,15 +39,23 @@ I participated in the GMTK game jam and we made [CockaTune](https://nyunesu.itch
 
   
 
+![cockatune-gif](assets\images\cockatune-gif.gif)
+
+[**Play CockaTune!**](https://nyunesu.itch.io/cockatune) 
 
 
-Basically I could add a bunch of useful advice from that experience to my [previous post about prototyping](https://nyune.su/blog/prototyping-advice/). So now I have an **[self-advice page](https://nyune.su/self-advice)** where I'm keeping a updated list of advice that **works for me**. Feel free to use what works for you.
+
+Basically I could add a bunch of useful advice from that experience to my previous post about prototyping. So now I have an **[self-advice page](https://nyune.su/self-advice)** where I'm keeping a updated list of advice that **works for me**. Feel free to use what works for you.
+
+
+
+------
 
 
 
 Subscribe to my mailing list so you don't miss any post or game I publish.
 
-http://nyune.su/newsletter
+[http://nyune.su/newsletter](http://nyune.su/newsletter)
 
 
 
