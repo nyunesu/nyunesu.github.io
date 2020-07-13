@@ -10,7 +10,7 @@ tags:
 
 
 
-![cockatune-logo](assets\images\cockatune-logo.png)
+![cockatune-logo](\assets\images\cockatune-logo.png)
 
 I participated in the GMTK game jam and we made [CockaTune](https://nyunesu.itch.io/cockatune). Here are the main takeaways from that experience:
 
@@ -39,7 +39,7 @@ I participated in the GMTK game jam and we made [CockaTune](https://nyunesu.itch
 
   
 
-![cockatune-gif](assets\images\cockatune-gif.gif)
+![cockatune-gif](\assets\images\cockatune-gif.gif)
 
 [**Play CockaTune!**](https://nyunesu.itch.io/cockatune) 
 
