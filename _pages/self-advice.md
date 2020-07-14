@@ -9,7 +9,7 @@ title: "Self Advice"
 
 - **Think outside the box**
 
-  *If all your experiments succeed, you're not doing enough experiments. Step out of your comfort-zone, go crazy and explore new playable concepts.*
+  *If all your experiments succeed, you’re not doing enough experiments. Step out of your comfort zone, go crazy, and explore new playable concepts.*
 
   
 
@@ -21,37 +21,37 @@ title: "Self Advice"
   
 
 
-- **Wake up & play**
+- **A fresh pair of eyes**
 
-  *As soon as you take a huge break from your game, wake-up or something similar, let someone else play in front of you and observe as a spectator, you might notice issues you haven't before because you were so immersed in your own screen.*
+  *Take a long break and before getting back to the development let someone else play in front of you while you observe as a spectator, you might notice issues you haven’t before because you were so immersed in your screen.*
 
   
 
 
 - **Make it easy to learn, but hard to master**
 
-  *Have your core mechanics ready as soon as possible and use the extra time to identify their difficulty factors. This gives you more time to tweak and explore them. Remember of the [4:44 rule](https://youtu.be/lPyYZjCQ0Is).*
+  *Have your core mechanics ready as soon as possible and use the extra time to identify their difficulty factors. This gives you more time to tweak and explore them. Remember of [4:44 rule](https://youtu.be/lPyYZjCQ0Is).*
 
   
 
 
 - **Form follows function**
 
-  *One of the ways you can make your game easy to learn is by explaining your rules through form. Use visuals & sounds to shape your rules.*
+  *One of the ways you can make your game easy to learn is by explaining your rules through the form. Use visuals & sounds to shape your rules.*
 
   
 
 
 - **Turn on the big picture mode**
 
-  *It's easy to get lost and "waste" a bunch of time in tiny details, look for the changes that'll have the higher time/result value.*
+  *It’s easy to get lost and “waste” a bunch of time in tiny details, look for the changes that’ll have a higher time/result value.*
 
   
 
 
 - **Optional challenges**
 
-  *Players enjoy challenging themselves, try to throw some optional challenges/shortcuts alongside the game and let themselves impose the difficult they want to play. Have a multiple ways to overcome a challenge while keeping in mind the minimum and maximum difficulty for each one.*
+  *Players enjoy challenging themselves, try to throw some optional challenges/shortcuts alongside the game, and let themselves impose the difficult they want to play. Have multiple ways to overcome a challenge while keeping in mind the minimum and maximum difficulty for each one.*
 
   
 
