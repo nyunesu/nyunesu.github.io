@@ -3,13 +3,27 @@ permalink: /self-advice/
 title: "Self Advice"
 ---
 
-## v1 - 2020.07.13
+## v2 - 2020.07.15
 
 
 
 - **Think outside the box**
 
   *If all your experiments succeed, you’re not doing enough experiments. Step out of your comfort zone, go crazy, and explore new playable concepts.*
+
+  
+
+
+- **Define a goal**
+
+  *A player without a goal tends to lose interest quickly. Define one even if it's trivial.*
+
+  
+
+
+- **Are we there yet?**
+
+  *Make sure the player knows (or have an idea of) how much they progressed and what is left to complete each objective.*
 
   
 
@@ -51,7 +65,7 @@ title: "Self Advice"
 
 - **Optional challenges**
 
-  *Players enjoy challenging themselves, try to throw some optional challenges/shortcuts alongside the game, and let themselves impose the difficult they want to play. Have multiple ways to overcome a challenge while keeping in mind the minimum and maximum difficulty for each one.*
+  *Players enjoy challenging themselves, try to throw some optional challenges/shortcuts alongside the game, and let them impose the difficulty they want to play. Have multiple ways to overcome a challenge while keeping in mind the minimum and maximum difficulty for each one.*
 
   
 
@@ -66,6 +80,4 @@ title: "Self Advice"
 - **Leave some bread crumbs along the way**
 
   *Backup your files and also save a few things that can be used in other projects*
-
-  
 
