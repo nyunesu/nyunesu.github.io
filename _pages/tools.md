@@ -18,6 +18,8 @@ permalink: /tools/
 
 - [GitKraken](https://www.gitkraken.com/download/windows64)
 
+- [Itch.io](https://itch.io/app)
+
 - **[JetBrains Rider](https://www.jetbrains.com/rider/download/#section=windows)**
   
   - [C# Unity XML](https://gist.github.com/nyunesu/b88e9b03cf03372024d869b5a8040020)
