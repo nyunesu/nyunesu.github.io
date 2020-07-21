@@ -12,6 +12,8 @@ permalink: /tools/
 
 - [Autodesk Maya](https://manage.autodesk.com/cep/#products-services/all)
 
+- [Butler](https://fasterthanlime.itch.io/butler)
+
 - [Git](https://git-scm.com/download/win)
 
 - [GitKraken](https://www.gitkraken.com/download/windows64)
@@ -40,7 +42,7 @@ permalink: /tools/
 
 
 
-[Ninite](https://ninite.com/.net4.8-7zip-adoptjavax11-air-chrome-discord-everything-firefox-handbrake-klitecodecs-qbittorrent-revo/)
+[Ninite](https://ninite.com/.net4.8-7zip-adoptjavax11-air-chrome-discord-everything-firefox-handbrake-klitecodecs-qbittorrent-revo-spotify/)
 
 > - *7-Zip*
 > - *Discord*
@@ -57,3 +59,4 @@ permalink: /tools/
 >   - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 > - *qBIttorrent*
 > - *Revo Uninstaller*
+> - Spotify
