@@ -1,7 +1,8 @@
 ---
 permalink: "/snetris"
-title: "snetris"
-excerpt: "2018"
+title: "Snetris"
+excerpt: "2018
+Goal: Mix two popular game mechanics"
 header:
   teaser: assets/images/snetris.png
 sidebar:
