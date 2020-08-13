@@ -3,7 +3,7 @@ main:
     url: /games/
   - title: "Blog"
     url: /blog/
-#  - title: "Press"
-#    url: /press/
+  - title: "Resume"
+    url: /resume/
   - title: "About"
     url: /about/

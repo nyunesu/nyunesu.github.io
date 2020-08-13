@@ -15,6 +15,7 @@ classes: wide
 - *[Itch.io](https://nyunesu.itch.io/)*
 
 - *[Newgrounds](https://nyunesu.newgrounds.com/)*
+
 ------
 <iframe src="https://player.vimeo.com/video/447159756" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -119,6 +120,19 @@ classes: wide
 - **Outcome:**
   - First project running on Switch
   - On hold
+
+#### **[Coddiwomple](https://streamable.com/6rh0kr)**
+
+*2020 (Unity, C#)*
+
+- **Goal**: Make a turn-based tactics battle system
+- **Learnings**:
+  - Line of sight was tricky, had to use Bresnahan's algorithm and modify it a little bit
+  - Made another a* path finder from scratch
+  - Tried to communicate as clearly as possible, by starting the prototype with the UI
+  - Made character spells modular
+- **Outcome:**
+  - The system itself was uninteresting (obviously), and I had no other plans for it so it's archived
 
 #### **[Project: Hook](https://www.newgrounds.com/projects/games/1429932/preview)** 
 
