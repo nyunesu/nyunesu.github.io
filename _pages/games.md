@@ -85,6 +85,20 @@ classes: wide
 ## Personal Projects & Prototypes
 
 ------
+#### **[This Cannon Is Mine](https://youtu.be/1EakJTB7yOY)**
+
+*2020 (Unity, C#)*
+
+- **Goal**: Make a 3D tower defense about managing a single turret
+- **Learnings**:
+  - Enemy archetypes design to avoid predominant strategies
+  - New Unity Input System with multiple control schemes
+  - Cinemachine customization and camera blends
+  - Dynamic gameplay progression based on animation curves
+- **Outcome**:
+  - Playable demo & gameplay trailer
+  - On hold until project's evaluation
+
 #### **[Nameless Archer Prototype](https://streamable.com/zicf0d)**
 
 *2020 (Unity, C#)*
@@ -107,7 +121,7 @@ classes: wide
   - How to use audio spectrum to obtain audio info
   - How to use animation curves to control player jump
 - **Outcome**:
-  - Place #34 in overall and #9 in presentation out of 5413 submissions during GMTK Game Jam 2020
+  - Placed #34 in overall and #9 in presentation out of 5413 submissions during GMTK Game Jam 2020
 
 #### **[Snetris](https://twitter.com/nyunesu/status/1048719578086477825)**
 
