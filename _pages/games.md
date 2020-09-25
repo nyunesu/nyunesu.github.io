@@ -85,6 +85,21 @@ classes: wide
 ## Personal Projects & Prototypes
 
 ------
+#### **[Block Rise](https://github.com/nyunesu/block-rise/releases/latest)**
+
+*2020 (Unity, C#) - Source code available*
+
+- **Goal**: Make a Tricky Towers clone for mobile in a week
+- **Learnings**:
+  - Garbage collection improvement
+  - Memory allocation management
+  - Memory profiler
+  - Device simulation
+  - Customized editor tools
+- **Outcome**:
+  - Playable demo for Android
+  - Public code on GitHub
+
 #### **[This Cannon Is Mine](https://youtu.be/1EakJTB7yOY)**
 
 *2020 (Unity, C#)*
