@@ -85,6 +85,18 @@ classes: wide
 ## Personal Projects & Prototypes
 
 ------
+#### **[Snek](https://nyunesu.itch.io/snek)**
+
+*2020 (Unity, C#) - Made with @Diemorth & @EnriqueWR*
+
+- **Goal**: Make a game around the theme "Stuck in a loop" in a weekend
+- **Learnings**:
+  - More in-depth DOTween knowledge
+  - Creation and management of Wang tiles alongside Unity's 2d-extras package
+  - Restore entangled git repos
+- **Outcome**:
+  - Playable jam version with 12 levels
+
 #### **[Block Rise](https://github.com/nyunesu/block-rise/releases/latest)**
 
 *2020 (Unity, C#) - Source code available*
