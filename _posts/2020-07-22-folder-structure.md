@@ -15,7 +15,7 @@ Another quick thing that I thought it'd be great to share. I made a tiny script 
 
 As I said on the tweet, feel free to use/customize/distribute or whatever you want to.
 
-<script src="https://gist.github.com/nyunesu/da65e1cea1120be697e456e22e4143b3.js"></script>
+<script src="https://gist.github.com/nyunesu/ee9031646cd08f9d1888f4cd1297fb59.js"></script>
 
 That's it, I hope that's helpful for you somehow!
 
