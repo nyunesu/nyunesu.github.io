@@ -2,10 +2,10 @@
 main:
   - title: "Games"
     url: /games/
-  # - title: "Blog"
-    # url: /blog/
   - title: "Resume"
     url: /resume/
+  - title: "Articles"
+    url: /articles/
   - title: "About"
     url: /about/
   # - title: "About"
