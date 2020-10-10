@@ -1,6 +1,7 @@
 ---
 title: "Prototyping advice"
 date: 2020-07-06
+excerpt: "A collection of useful advice for gameplay prototyping"
 categories:
   - blog
 tags:

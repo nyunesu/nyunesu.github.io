@@ -1,6 +1,7 @@
 ---
 title: "Utility script to organize Unity's folders"
 date: 2020-07-22
+excerpt: "An editor script that will help you organize your Unity projects"
 categories:
   - blog
 tags:
