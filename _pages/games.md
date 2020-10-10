@@ -22,9 +22,7 @@ permalink: /games/
 ## **[Deep Down](https://www.newgrounds.com/portal/view/717886)**
 
 *2019 (Unity, C#) - Web (PC)*
-> Felipe Nunes (Gameplay Programmer, Level Designer)
-> Enrique Wicks (Programmer)
-> Igor Ferreira (Artist)
+> Gameplay Programmer, Level Designer
 
 - **Goal**: Implement a very precise character controller for a platformer
 - **Learnings**:
@@ -45,8 +43,7 @@ permalink: /games/
 
 *2019 (Unity, C#) - Web (PC)*
 
-> Felipe Nunes (Gameplay Programmer)
-> José Ramón García (Composer)
+> Gameplay Programmer
 
 - **Goal**: Create a grid-based combat using only movement as input
 - **Learnings**:
@@ -65,7 +62,7 @@ permalink: /games/
 
 *2019 (Unity, C#) - Web (PC)*
 
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Find an interesting way to twist a platformer game by removing one of its core elements: the ability to jump *(freely)*
 - **Learnings**:
@@ -82,7 +79,7 @@ permalink: /games/
 ## **[Generator](https://nyunesu.itch.io/generator)**
 
 *2019 (Unity, C#) - Web (PC)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Find a twist to the classic box-pushing puzzle games
 - **Learnings**:
@@ -101,9 +98,7 @@ permalink: /games/
 ## **[Snek](https://nyunesu.itch.io/snek)**
 
 *2020 (Unity, C#) - Web (PC)*
-> Felipe Nunes (UX Designer, Gameplay Programmer)
-> Enrique Wicks (Gameplay Programmer)
-> Igor Ferreira (Artist)
+> UX Designer, Gameplay Programmer
 
 - **Goal**: Make a game around the theme "Stuck in a loop" in a weekend
 - **Learnings**:
@@ -118,7 +113,7 @@ permalink: /games/
 ## **[Block Rise](https://github.com/nyunesu/block-rise/releases/latest)**
 
 *2020 (Unity, C#) - Mobile (Android)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Make a Tricky Towers clone for mobile in a week
 - **Learnings**:
@@ -136,7 +131,7 @@ permalink: /games/
 ## **[This Cannon Is Mine](https://youtu.be/1EakJTB7yOY)**
 
 *2020 (Unity, C#) - Windows (PC)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Make a 3D tower defense about managing a single turret
 - **Learnings**:
@@ -153,7 +148,7 @@ permalink: /games/
 ## **[Nameless Archer Prototype](https://streamable.com/zicf0d)**
 
 *2020 (Unity, C#)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Create a third person controller using the new animation rigging package in Unity
 - **Learnings**:
@@ -169,9 +164,7 @@ permalink: /games/
 ## **[CockaTune](https://nyunesu.itch.io/cockatune)**
 
 *2020 (Unity, C#) - Web & Windows (PC)*
-> Felipe Nunes (Gameplay Programmer)
-> @Franekkk & @Brunopixels (Artist)
-> @BroduxOfficial & Jasioloze (Composer)
+> Gameplay Programmer
 
 - **Goal**: Make a rhythm based game
 - **Learnings**:
@@ -185,7 +178,7 @@ permalink: /games/
 ## **[Snetris](https://twitter.com/nyunesu/status/1048719578086477825)**
 
 *2020 (Unity, C#)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Mix two popular mechanics and see how they interact with each other
 - **Learnings**:
@@ -201,7 +194,7 @@ permalink: /games/
 ## **[Coddiwomple](https://streamable.com/6rh0kr)**
 
 *2020 (Unity, C#) - Windows (PC)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Make a turn-based tactics battle system
 - **Learnings**:
@@ -217,7 +210,7 @@ permalink: /games/
 ## **[Project: Hook](https://www.newgrounds.com/projects/games/1429932/preview)** 
 
 *2018 (Unity, C#) - Windows (PC)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Create emergent gameplay from only using a grappling hook to move
 - **Learnings:**
@@ -233,8 +226,7 @@ permalink: /games/
 ## **[Plane](https://nyunejam.itch.io/plane)**
 
 *2020 (Unity, C#) - Windows & Web (PC)*
-> Felipe Nunes (Gameplay Programmer)
-> Rafael Vital (3D Artist)
+> Gameplay Programmer
 
 - **Goal**: Make an airplane controller with minimal controls
 - **Learnings:**
@@ -247,7 +239,7 @@ permalink: /games/
 ## **[Heavy Burden](https://nyunejam.itch.io/heavy-burden)**
 
 *2020 (Unity, C#) - Web (PC)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Create a Diablo-like inventory system
 - **Learnings:**
@@ -261,7 +253,7 @@ permalink: /games/
 ## **[Ricochet](https://nyunesu.itch.io/ricochet)**
 
 *2018 (Unity, C#) - Windows & Web (PC)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Make a shooter where your bullets ricochet back and can hurt you
 - **Learnings:**
@@ -277,8 +269,7 @@ permalink: /games/
 
 *2016 (Game Maker, GML) - Windows (PC)*
 
-> Felipe Nunes (Game Designer)
-> Igor Ferreira (Artist)
+> Game Designer
 
 - **Goal**: Create a gameplay based on the theme "Time"
 - **Learnings:**
@@ -294,7 +285,7 @@ permalink: /games/
 ## **[Rocket Jump](https://nyunesu.itch.io/rocket-jump)**
 
 *2018 (Unity, C#) - Windows & Web (PC)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: A game where you could only move by using a rocket launcher to boost you
 - **Learnings:**
@@ -308,9 +299,7 @@ permalink: /games/
 ## **[Gun Appetit](https://nyunesu.itch.io/gun-appetit)**
 
 *2018 (Unity, C#) - Windows (PC)*
-> Felipe Nunes (Gameplay Programmer)
-> Enrique Wicks (Gameplay Programmer)
-> Igor Ferreira (Artist)
+> Gameplay Programmer
 
 - **Goal**: Mix two game genres that weren't compatible
 - **Learnings:**
@@ -324,8 +313,7 @@ permalink: /games/
 ## **[SpeedHooks](https://nyunesu.itch.io/speedhooks)**
 
 *2018 (Unity, C#) - Windows (PC)*
-> Felipe Nunes (Gameplay Programmer)
-> Enrique Wicks (Associate Programmer)
+> Gameplay Programmer
 
 - **Goal**: Create a racing game with the Super Smash Bros "throw your opponent out" mechanic
 - **Learnings:**
@@ -356,7 +344,7 @@ permalink: /games/
 ## **[Cardformer](https://twitter.com/nyunesu/status/1047935193837969409)**
 
 *2018 (Unity, C#)*
-> Felipe Nunes (Solo)
+> Solo
 
 - **Goal**: Create a platformer game where you control your with cards
 - **Learnings:**
