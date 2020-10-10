@@ -51,7 +51,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : /404 # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -83,7 +83,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/nyunesu"
+    - "/nyunesu"
 
 # Analytics
 analytics:
@@ -107,16 +107,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-twitter"
-      url: "https://twitter.com/nyunesu"
+      url: "/nyunesu"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/nyunesu/"
+      url: "/linkedin"
     - label: "Newsletter"
       icon: "fas fa-bell"
-      url: "http://eepurl.com/g4mi11"
+      url: "/newsletter"
     - label: "Discord"
       icon: "fab fa-discord"
-      url: "https://discord.gg/mFYEA4x"
+      url: "/discord"
 
 
 # Reading Files
