@@ -19,6 +19,28 @@ permalink: /games/
 
 
 
+## **[Deep Down](https://www.newgrounds.com/portal/view/717886)**
+
+*2019 (Unity, C#) - Web (PC)*
+> Felipe Nunes (Gameplay Programmer, Level Designer)
+> Enrique Wicks (Programmer)
+> Igor Ferreira (Artist)
+
+- **Goal**: Implement a very precise character controller for a platformer
+- **Learnings**:
+  - How to use minimum and maximums for each parameter in game
+  - Have metrics for jumping distances
+  - Removing mechanics that don't fit the overall game vision is important
+  - Sometimes in life you'll design 100 levels and only keep 30
+  - Physics formulas to control jump high and falloff
+- **Outcome**:
+  - Sold a license to web game portals after final evaluation and approval
+  - Game was added to the speedrun.com community
+  - Placed #19 in overall and #8 in fun out of 3069 submissions during LudumDare 42
+  - Featured on Newgrounds website
+
+
+
 ## **[Pumpking](https://www.newgrounds.com/portal/view/741448)**
 
 *2019 (Unity, C#) - Web (PC)*
@@ -54,28 +76,6 @@ permalink: /games/
   - Sold a license to web game portals after final evaluation and approval
   - Featured on Kongregate's website and also Monthly Contest Winner
   - Featured on Newgrounds
-
-
-
-## **[Deep Down](https://www.newgrounds.com/portal/view/717886)**
-
-*2019 (Unity, C#) - Web (PC)*
-> Felipe Nunes (Gameplay Programmer, Level Designer)
-> Enrique Wicks (Programmer)
-> Igor Ferreira (Artist)
-
-- **Goal**: Implement a very precise character controller for a platformer
-- **Learnings**:
-  - How to use minimum and maximums for each parameter in game
-  - Have metrics for jumping distances
-  - Removing mechanics that don't fit the overall game vision is important
-  - Sometimes in life you'll design 100 levels and only keep 30
-  - Physics formulas to control jump high and falloff
-- **Outcome**:
-  - Sold a license to web game portals after final evaluation and approval
-  - Game was added to the speedrun.com community
-  - Placed #19 in overall and #8 in fun out of 3069 submissions during LudumDare 42
-  - Featured on Newgrounds website
 
 
 

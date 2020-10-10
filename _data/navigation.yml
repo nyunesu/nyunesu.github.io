@@ -2,8 +2,8 @@
 main:
   - title: "Games"
     url: /games/
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+    # url: /blog/
   - title: "Resume"
     url: /resume/
   - title: "About"
