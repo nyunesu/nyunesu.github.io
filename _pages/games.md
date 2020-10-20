@@ -95,6 +95,26 @@ permalink: /games/
 
 
 
+## **Unnamed RPG - (Under development)**
+
+*2020 (Unity, C#) - Windows (PC)*
+
+> Solo
+
+- **Goal**: Make a RPG game as sandbox to learn new and experiment with new features
+- **Learnings**:
+  - How to handle problems of "Experimental Play Mode" in Unity
+  - Use and Setup Gaia by ProceduralWords for terrain manipulation
+  - Cutscenes in Unity with Cinemachine and Timeline
+  - Persist objects to avoid use of Singletons
+  - Start can be used as a coroutine for initialization
+  - How to create a generic saving system
+  - Saving system across scenes using UUIDs
+- **Outcome**:
+  - Under development
+
+
+
 ## **[Snek](https://nyunesu.itch.io/snek)**
 
 *2020 (Unity, C#) - Web (PC)*
@@ -328,9 +348,7 @@ permalink: /games/
 ## **[Boom Bow](https://nyunesu.itch.io/boom-bow)**
 
 *2019 (Unity, C#) - Windows (PC)*
-> Felipe Nunes (Gameplay Programmer, Game Designer)
-> Guilherme Serrão (Associate Programmer)
-> Igor Ferreira (Artist)
+> Gameplay Programmer, Game Designer
 
 - **Goal**: Create an accumulative modular power-up mechanic (such as Path of Exile or The Binding of Isaac)
 - **Learnings:**
