@@ -11,15 +11,13 @@ permalink: /games/
 
 ----
 
-
-
 # Sponsored & Licensed
 
 > Clients include but are not limited to: Cool Math Games, Armor Games, Shockwave & Addicting Games.
 
 
 
-## **[Deep Down](https://www.newgrounds.com/portal/view/717886)**
+## Deep Down *[(>>)](https://www.newgrounds.com/portal/view/717886)*
 
 *2019 (Unity, C#) - Web (PC)*
 > Gameplay Programmer, Level Designer
@@ -39,10 +37,9 @@ permalink: /games/
 
 
 
-## **[Pumpking](https://www.newgrounds.com/portal/view/741448)**
+## Pumpking *[(>>)](https://www.newgrounds.com/portal/view/741448)*
 
 *2019 (Unity, C#) - Web (PC)*
-
 > Gameplay Programmer
 
 - **Goal**: Create a grid-based combat using only movement as input
@@ -58,10 +55,9 @@ permalink: /games/
 
 
 
-## **[Unnamed Chick Game](https://www.newgrounds.com/portal/view/739986)**
+## Unnamed Chick Game *[(>>)](https://www.newgrounds.com/portal/view/739986)*
 
 *2019 (Unity, C#) - Web (PC)*
-
 > Solo
 
 - **Goal**: Find an interesting way to twist a platformer game by removing one of its core elements: the ability to jump *(freely)*
@@ -76,7 +72,7 @@ permalink: /games/
 
 
 
-## **[Generator](https://nyunesu.itch.io/generator)**
+## Generator *[(>>)](https://nyunesu.itch.io/generator)*
 
 *2019 (Unity, C#) - Web (PC)*
 > Solo
@@ -90,15 +86,16 @@ permalink: /games/
   - Featured on Itch.io
 
 
+----
 
 # Personal Projects & Prototypes
 
 
 
-## **Unnamed RPG - (Under development)**
+## Unnamed RPG - (Under development)
+*[URL (Not Available)]()*
 
 *2020 (Unity, C#) - Windows (PC)*
-
 > Solo
 
 - **Goal**: Make a RPG game as sandbox to learn new and experiment with new features
@@ -115,7 +112,7 @@ permalink: /games/
 
 
 
-## **[Snek](https://nyunesu.itch.io/snek)**
+## Snek *[(>>)](https://nyunesu.itch.io/snek)*
 
 *2020 (Unity, C#) - Web (PC)*
 > UX Designer, Gameplay Programmer
@@ -130,7 +127,7 @@ permalink: /games/
 
 
 
-## **[Block Rise](https://github.com/nyunesu/block-rise/releases/latest)**
+## Block Rise *[(>>)](https://github.com/nyunesu/block-rise/releases/latest)*
 
 *2020 (Unity, C#) - Mobile (Android)*
 > Solo
@@ -148,7 +145,7 @@ permalink: /games/
 
 
 
-## **[This Cannon Is Mine](https://youtu.be/1EakJTB7yOY)**
+## This Cannon Is Mine *[(>>)](https://youtu.be/1EakJTB7yOY)*
 
 *2020 (Unity, C#) - Windows (PC)*
 > Solo
@@ -165,7 +162,7 @@ permalink: /games/
 
 
 
-## **[Nameless Archer Prototype](https://streamable.com/zicf0d)**
+## Nameless Archer Prototype *[(>>)](https://streamable.com/zicf0d)*
 
 *2020 (Unity, C#)*
 > Solo
@@ -181,7 +178,7 @@ permalink: /games/
 
 
 
-## **[CockaTune](https://nyunesu.itch.io/cockatune)**
+## CockaTune *[(>>)](https://nyunesu.itch.io/cockatune)*
 
 *2020 (Unity, C#) - Web & Windows (PC)*
 > Gameplay Programmer
@@ -195,7 +192,7 @@ permalink: /games/
 
 
 
-## **[Snetris](https://twitter.com/nyunesu/status/1048719578086477825)**
+## Snetris *[(>>)](https://twitter.com/nyunesu/status/1048719578086477825)*
 
 *2020 (Unity, C#)*
 > Solo
@@ -211,7 +208,7 @@ permalink: /games/
 
 
 
-## **[Coddiwomple](https://streamable.com/6rh0kr)**
+## Coddiwomple *[(>>)](https://streamable.com/6rh0kr)*
 
 *2020 (Unity, C#) - Windows (PC)*
 > Solo
@@ -227,7 +224,7 @@ permalink: /games/
 
 
 
-## **[Project: Hook](https://www.newgrounds.com/projects/games/1429932/preview)** 
+## Project: Hook *[(>>)](https://www.newgrounds.com/projects/games/1429932/preview)*
 
 *2018 (Unity, C#) - Windows (PC)*
 > Solo
@@ -243,7 +240,7 @@ permalink: /games/
 
 
 
-## **[Plane](https://nyunejam.itch.io/plane)**
+## Plane *[(>>)](https://nyunejam.itch.io/plane)*
 
 *2020 (Unity, C#) - Windows & Web (PC)*
 > Gameplay Programmer
@@ -256,7 +253,7 @@ permalink: /games/
 
 
 
-## **[Heavy Burden](https://nyunejam.itch.io/heavy-burden)**
+## Heavy Burden *[(>>)](https://nyunejam.itch.io/heavy-burden)*
 
 *2020 (Unity, C#) - Web (PC)*
 > Solo
@@ -270,7 +267,7 @@ permalink: /games/
 
 
 
-## **[Ricochet](https://nyunesu.itch.io/ricochet)**
+## Ricochet *[(>>)](https://nyunesu.itch.io/ricochet)*
 
 *2018 (Unity, C#) - Windows & Web (PC)*
 > Solo
@@ -285,10 +282,9 @@ permalink: /games/
 
 
 
-## **[Timers](https://feedlipe.itch.io/timers)**
+## Timers *[(>>)](https://feedlipe.itch.io/timers)*
 
 *2016 (Game Maker, GML) - Windows (PC)*
-
 > Game Designer
 
 - **Goal**: Create a gameplay based on the theme "Time"
@@ -302,7 +298,7 @@ permalink: /games/
 
 
 
-## **[Rocket Jump](https://nyunesu.itch.io/rocket-jump)**
+## Rocket Jump *[(>>)](https://nyunesu.itch.io/rocket-jump)*
 
 *2018 (Unity, C#) - Windows & Web (PC)*
 > Solo
@@ -316,7 +312,7 @@ permalink: /games/
 
 
 
-## **[Gun Appetit](https://nyunesu.itch.io/gun-appetit)**
+## Gun Appetit *[(>>)](https://nyunesu.itch.io/gun-appetit)*
 
 *2018 (Unity, C#) - Windows (PC)*
 > Gameplay Programmer
@@ -330,7 +326,7 @@ permalink: /games/
 
 
 
-## **[SpeedHooks](https://nyunesu.itch.io/speedhooks)**
+## SpeedHooks *[(>>)](https://nyunesu.itch.io/speedhooks)*
 
 *2018 (Unity, C#) - Windows (PC)*
 > Gameplay Programmer
@@ -345,7 +341,7 @@ permalink: /games/
 
 
 
-## **[Boom Bow](https://nyunesu.itch.io/boom-bow)**
+## Boom Bow *[(>>)](https://nyunesu.itch.io/boom-bow)*
 
 *2019 (Unity, C#) - Windows (PC)*
 > Gameplay Programmer, Game Designer
@@ -359,7 +355,7 @@ permalink: /games/
 
 
 
-## **[Cardformer](https://twitter.com/nyunesu/status/1047935193837969409)**
+## Cardformer *[(>>)](https://twitter.com/nyunesu/status/1047935193837969409)*
 
 *2018 (Unity, C#)*
 > Solo
