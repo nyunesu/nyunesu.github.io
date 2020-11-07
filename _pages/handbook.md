@@ -2,10 +2,6 @@
 permalink: /handbook/
 title: Nyunesu's Handbook
 ---
-# Nyunesu's Handbook
-
-
-
 ## Things to ask yourself before you start thinking about the game
 
 - Do you have an innovative feature for this game?

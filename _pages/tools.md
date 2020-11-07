@@ -1,10 +1,7 @@
 ---
+title: Windows Setup
 permalink: /tools/
 ---
-
-# Windows Setup
-
-
 
 ## Windows Settings
 
