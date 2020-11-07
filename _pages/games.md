@@ -124,7 +124,7 @@ permalink: /games/
 
 
 
-## Block Rise *[(>>)](https://github.com/nyunesu/block-rise/releases/latest)*
+## Block Rise *[(>>)](https://github.com/nyunesu/block-rise-public/releases/latest)*
 
 *2020 (Unity, C#) - Mobile (Android)*
 > Solo
