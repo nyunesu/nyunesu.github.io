@@ -79,20 +79,6 @@ Don't get too attached to your ideas. Kill them if they don't fit.
 
 
 
-## Things to ask someone playtesting your game
-
-- What was your favorite moment or interaction?
-- What was your least favorite moment or interaction?
-- When did you feel the most clever?
-- Was there anything you wanted to do that the game wouldn't let you do?
-- If you had a magic wand that could change any aspect of the game or your experience, what would it be?
-
-There's often more than one solution to a problem. A player might present you with a solution, but you may find others.
-
-Great ideas can come from anyone. Listen frequently and carefully.
-
-
-
 ## Things to remind/ask yourself
 
 - Are you assessing your tasks by priority and development stage?
@@ -119,3 +105,47 @@ Great ideas can come from anyone. Listen frequently and carefully.
   - Try to have at least one short, mid and long term goal
   - Make sure the player knows (or has an idea of) how much they progressed and what is left to complete each goal
   - Think in terms of OCR gameplay loops *Objective, Challenge, Reward*
+
+----
+
+## Playtest
+
+- Early playtests should only test if a mechanic works or not, and figure out why.
+- Once you have multiple parts in place, you can playtest the game as experience
+
+- Keep an eye out for emergent behavior
+
+  ```
+  Play patterns will emerge that you didn’t intend to create as a designer. If you discover emergent behavior that fits your core game experience, encourage players to pursue it by designing rewards.
+  ```
+
+**Execute**
+
+1. Bring the prototype to a point where players can interact with it without explicit instructions from you.
+2. Offer the briefest introduction you possibly can, then have the test groups to play.
+3. Take notes when they get frustrated or they encounter problems.
+4. Note when they stick around on a certain moment of the game, or try to prolong it.
+5. Only answer questions if play is completely halted.
+
+**Interview**
+
+- What was your favorite moment or interaction?
+- What was your least favorite moment or interaction?
+- When did you feel the most clever?
+- Was there anything you wanted to do that the game wouldn't let you do?
+- If you had a magic wand that could change any aspect of the game or your experience, what would it be?
+
+*Expect your playtesters to find problems in your game, not solutions*.
+
+**Review**
+
+- What patterns did you observe?
+  - X was not obvious
+  - Y was too hard
+  - They didn't enjoy Z
+- What joys and frustrations were shared among all playtesters?
+- Did you observe any unexpected behavior?
+- Can that behavior be added to the core experience of your game? 
+
+----
+

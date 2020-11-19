@@ -237,7 +237,7 @@ permalink: /games/
 
 
 
-## Plane *[(>>)](https://nyunejam.itch.io/plane)*
+## Plane *[(>>)](https://nyunesu.itch.io/plane)*
 
 *2020 (Unity, C#) - Windows & Web (PC)*
 > Gameplay Programmer
@@ -250,7 +250,7 @@ permalink: /games/
 
 
 
-## Heavy Burden *[(>>)](https://nyunejam.itch.io/heavy-burden)*
+## Heavy Burden *[(>>)](https://nyunesu.itch.io/heavy-burden)*
 
 *2020 (Unity, C#) - Web (PC)*
 > Solo
@@ -279,7 +279,7 @@ permalink: /games/
 
 
 
-## Timers *[(>>)](https://feedlipe.itch.io/timers)*
+## Timers *[(>>)](https://nyunesu.itch.io/timers)*
 
 *2016 (Game Maker, GML) - Windows (PC)*
 > Game Designer
