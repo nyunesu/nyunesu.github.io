@@ -3,15 +3,6 @@ permalink: /handbook/
 title: Nyunesu's Handbook
 ---
 
-
-
-## Things to ask yourself before you start thinking about the game
-
-- Do you have an innovative feature for this game?
-- Why are you making this game?
-
-
-
 ## Things to ask yourself before you prototype
 
 - What question do you need to answer with this prototype?
@@ -110,22 +101,28 @@ Don't get too attached to your ideas. Kill them if they don't fit.
 
 ## Playtest
 
-- Early playtests should only test if a mechanic works or not, and figure out why.
+- Early playtests should only test if a mechanic works or not, and figure out why
+
 - Once you have multiple parts in place, you can playtest the game as experience
+
+- Don't stick to the same testers, always bring new players
 
 - Keep an eye out for emergent behavior
 
   ```
-  Play patterns will emerge that you didn’t intend to create as a designer. If you discover emergent behavior that fits your core game experience, encourage players to pursue it by designing rewards.
+  Play patterns will emerge that you didn’t intend to create as a designer.
+  If you discover emergent behavior that fits your core game experience, encourage players to pursue it by designing risk/rewards around them.
+  
+  e.g. when you are popping bubbles, perhaps popping three in a row gives you points.
   ```
 
 **Execute**
 
-1. Bring the prototype to a point where players can interact with it without explicit instructions from you.
-2. Offer the briefest introduction you possibly can, then have the test groups to play.
-3. Take notes when they get frustrated or they encounter problems.
-4. Note when they stick around on a certain moment of the game, or try to prolong it.
-5. Only answer questions if play is completely halted.
+1. Bring the prototype to a point where players can interact with it without explicit instructions from you
+2. Offer the briefest introduction you possibly can, then have the test groups to play
+3. Take notes when they get frustrated or they encounter problems
+4. Note what activities they repeated or what goals they set for themselves
+5. Only answer questions if play is completely halted
 
 **Interview**
 
@@ -149,3 +146,55 @@ Don't get too attached to your ideas. Kill them if they don't fit.
 
 ----
 
+## Prototyping
+
+**Toy**
+
+- Create a core game mechanic with a focus on an enjoyable ‘juicy’ activity.
+- Playtest with someone and observe their actions
+
+**Playable**
+
+- Overall aesthetics matters. Colors, shapes, sound effects and music.
+- Define player goals, even if they're trivial.
+
+**Evaluate**
+
+- Can the player make meaningful decisions?
+- Is the player getting the feedback they require to make good decisions?
+- Are the major risk / reward systems in place?
+- What is the pacing of the experience?
+- Is there enough "what if..." to hang the rest of the game on?
+
+-----
+
+## Ideas
+
+Why are you making the game?
+
+**Stimulate Ideas**
+
+It's important to **take notes** as soon as something pops out
+
+- Start with something familiar & Add/Remove/Combine mechanics
+- Get inspired by other games, movies, anime, ...
+- Combine multiple genres or mechanics
+- Give yourself limitations
+- Fiddle around in your engine
+
+**Flesh it out**
+
+- Obstacles to overcome
+- Win/defeat conditions
+- Core mechanics
+- Core decisions
+- One sentence pitch
+
+**Evaluate Ideas**
+
+- Play in your mind, does it excite you?
+- List features and validate scope
+- Is it easy to communicate?
+- Evaluate "Hooks and Anchors"
+- Does it have appealing fantasy (is this something a player would like to do in real life)?
+- Evoke emotions
