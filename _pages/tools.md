@@ -7,7 +7,21 @@ permalink: /tools/
 
 ### **Windows[_](/assets/win.zip)Defender**
 
-Exclude Folder `C:\Windows\AutoKMS\`
+Exclude Folder:
+
+`C:\Windows\AutoKMS\`
+
+`C:\Repo\`
+
+`C:\Builds\`
+
+`%LOCALAPPDATA%\JetBrains`
+
+`C:\Program Files\JetBrains\`
+
+Exclude Process:
+
+`msbuild.exe`
 
 ### **Privacy Settings**
 
@@ -41,6 +55,8 @@ Set Prevent the usage of OneDrive for file storage for Windows 8.1 [**ENABLED**]
 ### Trim SSD
 
 `fsutil behavior set DisableDeleteNotify 0`
+
+`fsutil behavior set disableencryption 0`
 
 ### Indexing Options
 
