@@ -35,7 +35,7 @@ Visualize activities done moment to moment, minute to minute.
 
 #### Work on your pitch
 
-Describe it in a single sentence, where that sentence does not describe a single other game, and is quite clear your game. 
+Describe your game clearly in a single sentence, where that sentence does not describe a single other game. 
 
 # Production
 
