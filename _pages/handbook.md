@@ -7,61 +7,65 @@ title: Nyunesu's Handbook
 
 
 
-### **Finish what you start**
+#### **Finish what you start**
 
-### Everyone can start, not everyone can finish.
+Everyone can start, not everyone can finish.
 
-### **Keep the scope small**
+#### **Keep the scope small**
 
 Keep it simple, *then* build complexity.
 
-### **Don't get too attached to your ideas**
+#### **Don't get too attached to your ideas**
 
 Kill them if they don't fit. Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 
-### **Keep a backlog of tasks you have planned**
+#### **Keep a backlog of tasks you have planned**
 
 Assess your priorities.
 
 # Concept
 
-### **Define the difficulty factors of each mechanic**
+#### **Define the difficulty factors of each mechanic**
 
 Define what parameters will be used to increase or reduce the difficulty of your mechanics.
 
-### **Imagine in detail how the game plays in your head before committing to a prototype**
+#### **Imagine in detail how the game plays in your head before committing to a prototype**
 
 Visualize activities done moment to moment, minute to minute.
 
+#### Work on your pitch
+
+Describe it in a single sentence, where that sentence does not describe a single other game, and is quite clear your game. 
+
 # Production
 
-### **Form Follows Function**
+#### **Form Follows Function**
 
 Make sure the design communicates its workings.
 
-### **Meaningful decisions**
+#### **Meaningful decisions**
 
 Make sure the player can and have enough feedback to make meaningful decisions.
 
-### **Reward the player**
+#### **Reward the player**
 
 Give the player an instant reward for overcoming an intended challenge.
 
 ## Prototype
 
-### **Keep it simple**
+#### **Keep it simple**
 
 What is the smallest possible prototype I can build to illustrate *X*?
 
-### **Dual-purpose design**
+#### **Dual-purpose design**
 
 Assign more than one purpose to your mechanics, make them interact with each other.
 
-### **Minimalism**
+#### **Minimalism**
 
 Add colors, shapes, sound effects, and music to your prototypes.
 
-### **Use tools**
+#### **Use tools**
 
 See if there's an easy-to-use tool or asset that allows the prototype to be made faster.
 
