@@ -38,6 +38,7 @@ permalink: /plan/
 
 - Make sure to communicate to the player how much they progressed and what is left to complete each OCR loop (short, mid and long ones)
 - Give the player optional challenges. If possible, allow them to solve it in different ways. Things such as power ups that offer a different way to play or an alternative path.
+- Remember the 2 seconds rule while designing your levels.
 
 
 
